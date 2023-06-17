@@ -79,7 +79,7 @@ class PayLoads{
       PatBlt(desk, rand() % 155, rand() % 255, m, p, PATINVERT);
     }
   }
-}
+};
 
 VOID WINAPI Sound(){
   HWAVEOUT hwo = 0;
